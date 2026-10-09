@@ -6,6 +6,7 @@ plugins {
 android {
     namespace = "com.carchep.trader"
     compileSdk = 34
+    buildToolsVersion = "34.0.0"
 
     defaultConfig {
         applicationId = "com.carchep.trader"
